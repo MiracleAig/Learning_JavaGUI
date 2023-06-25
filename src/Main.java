@@ -31,7 +31,7 @@ public class Main {
        frame.setVisible(true);
        frame.add(label);
        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
+       frame.pack();
 
 
     }
