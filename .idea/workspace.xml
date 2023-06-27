@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f30c5ba-76f7-4605-81d8-53d71b48fe11" name="Changes" comment="Today I learned about labels and how you can use them in different ways.">
-      <change afterPath="$PROJECT_DIR$/src/LearningAboutPanels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WavingIcon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LearningAboutPanels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearningAboutPanels.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +76,7 @@
       <workItem from="1687721044612" duration="1297000" />
       <workItem from="1687794015968" duration="232000" />
       <workItem from="1687806255070" duration="751000" />
+      <workItem from="1687879491918" duration="2128000" />
     </task>
     <task id="LOCAL-00001" summary="I am learning more Java swing for fun.">
       <option name="closed" value="true" />
@@ -101,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687654926578</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Today I learned about labels and how you can use them in different ways.">
+      <option name="closed" value="true" />
+      <created>1687879695804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687879695804</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
