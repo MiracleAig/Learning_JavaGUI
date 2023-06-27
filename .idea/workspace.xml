@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f30c5ba-76f7-4605-81d8-53d71b48fe11" name="Changes" comment="Today I learned about labels and how you can use them in different ways.">
-      <change afterPath="$PROJECT_DIR$/WavingIcon.png" afterDir="false" />
+    <list default="true" id="2f30c5ba-76f7-4605-81d8-53d71b48fe11" name="Changes" comment="In this section I learned about panels and how you can use them in different ways">
+      <change afterPath="$PROJECT_DIR$/src/LearningAboutButtons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LearningAboutPanels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearningAboutPanels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <workItem from="1687721044612" duration="1297000" />
       <workItem from="1687794015968" duration="232000" />
       <workItem from="1687806255070" duration="751000" />
-      <workItem from="1687879491918" duration="2128000" />
+      <workItem from="1687879491918" duration="4032000" />
     </task>
     <task id="LOCAL-00001" summary="I am learning more Java swing for fun.">
       <option name="closed" value="true" />
@@ -110,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687879695804</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="In this section I learned about panels and how you can use them in different ways">
+      <option name="closed" value="true" />
+      <created>1687882134185</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687882134185</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +165,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I am learning more Java swing for fun." />
     <MESSAGE value="Today I learned about labels and how you can use them in different ways." />
-    <option name="LAST_COMMIT_MESSAGE" value="Today I learned about labels and how you can use them in different ways." />
+    <MESSAGE value="In this section I learned about panels and how you can use them in different ways" />
+    <option name="LAST_COMMIT_MESSAGE" value="In this section I learned about panels and how you can use them in different ways" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
