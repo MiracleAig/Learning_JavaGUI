@@ -13,6 +13,7 @@ public class Main {
        JLabel label = new JLabel();
        label.setText("This is the peak");
        label.setBackground(Color.BLACK);
+       label.setBounds(10,10,10,10);
        label.setForeground(Color.WHITE); // set font color of text
        label.setFont(new Font("Verdana",Font.BOLD,20));// set font of text
        label.setHorizontalTextPosition(JLabel.CENTER); // set the text LCR of image icon
@@ -24,6 +25,7 @@ public class Main {
        label.setHorizontalAlignment(JLabel.CENTER);
        //label.setBounds(0, 0, 250, 250); // set X,Y positions within the frame as well as dimentions
        label.setOpaque(true);
+
 
        JFrame frame = new JFrame("Java GUI");
        //frame.setSize(500,500);
